@@ -22,6 +22,6 @@ cc_fuzz {
     ],
 
     include_dirs: [
-        "hardware/qcom-caf/bootctrl/aidl",
+        "hardware/qcom/bootctrl/aidl",
     ],
 }
